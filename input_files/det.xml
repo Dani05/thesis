@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-16 19:50:44 by Eclipse SUMO netedit Version v1_14_1+2165-594eea235e4
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <entryExitDetector id="e3_0" pos="1581.39,35.33" period="60.00" file="e3_0.xml">
+        <detEntry lane="E6_0" pos="117.88"/>
+        <detEntry lane="E6_0" pos="117.88"/>
+        <detExit lane="-E6_0" pos="14.72"/>
+        <detExit lane="E13_0" pos="12.16"/>
+        <detEntry lane="-E13_0" pos="376.46"/>
+        <detEntry lane="-E8_0" pos="50.75"/>
+        <detExit lane="E8_0" pos="11.39"/>
+    </entryExitDetector>
+    <entryExitDetector id="e3_1" pos="-692.70,-2547.01" period="60.00" file="e3_1.xml">
+        <detEntry lane="E25_0" pos="598.42"/>
+        <detEntry lane="E25_1" pos="598.11"/>
+        <detEntry lane="E25_2" pos="598.09"/>
+        <detEntry lane="-E50_0" pos="129.21"/>
+        <detEntry lane="E48_0" pos="804.31"/>
+        <detEntry lane="-E25_0" pos="3139.92"/>
+        <detEntry lane="-E25_1" pos="3139.86"/>
+        <detEntry lane="-E25_2" pos="3139.48"/>
+        <detExit lane="-E25.3347_0" pos="32.91"/>
+        <detExit lane="-E25.3347_1" pos="32.60"/>
+        <detExit lane="-E25.3347_2" pos="32.11"/>
+        <detExit lane="E25.817_2" pos="25.51"/>
+        <detExit lane="E25.817_1" pos="25.43"/>
+        <detExit lane="E25.817_0" pos="25.31"/>
+        <detExit lane="-E48_0" pos="15.59"/>
+        <detExit lane="E50_0" pos="14.92"/>
+    </entryExitDetector>
+    <entryExitDetector id="e3_2" pos="4507.28,-2362.97" period="60.00" file="e3_2.xml">
+        <detEntry lane="E26_0" pos="1865.04"/>
+        <detEntry lane="E26_1" pos="1864.64"/>
+        <detEntry lane="E26_2" pos="1864.65"/>
+        <detEntry lane="-E56_0" pos="24.11"/>
+        <detEntry lane="E57_0" pos="55.58"/>
+        <detEntry lane="-E26_0" pos="139.23"/>
+        <detEntry lane="-E26_1" pos="139.24"/>
+        <detEntry lane="-E26_2" pos="139.10"/>
+        <detExit lane="-E26.285_2" pos="17.80"/>
+        <detExit lane="-E26.285_1" pos="18.10"/>
+        <detExit lane="-E26.285_0" pos="18.16"/>
+        <detExit lane="-E57_0" pos="14.93"/>
+        <detExit lane="E56_0" pos="13.26"/>
+        <detExit lane="E26.2000_2" pos="31.65"/>
+        <detExit lane="E26.2000_1" pos="32.09"/>
+        <detExit lane="E26.2000_0" pos="32.35"/>
+    </entryExitDetector>
+</additional>

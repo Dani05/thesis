@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-11-01 23:43:52 by Eclipse SUMO netedit Version v1_14_1+2165-594eea235e4
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="f_0" color="red" begin="0.00" departLane="random" departSpeed="avg" fromJunction="J0" toJunction="J35" end="3600.00" period="exp(0.15)"/>
+
+    
+    <flow id="f_1" color="red" begin="0.00" departLane="random" departSpeed="avg" fromJunction="J23" toJunction="J66" end="3600.00" period="exp(0.15)"/>
+    <flow id="f_2" color="red" begin="0.00" departLane="random" departSpeed="avg" fromJunction="J31" toJunction="J35" end="3600.00" period="exp(0.9)"/>
+
+    <flow id="f_3" color="red" begin="0.00" departLane="random" departSpeed="avg" fromJunction="J0" toJunction="J67" end="3600.00" period="exp(0.15)"/>
+    <flow id="f_4" color="red" begin="0.00" departLane="random" departSpeed="avg" fromJunction="J31" toJunction="J67" end="3600.00" period="exp(0.15)"/>
+
+</routes>
